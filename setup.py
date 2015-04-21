@@ -5,6 +5,8 @@ Hack hack hack.
 I said two lines. At least.
 I made some beautfication in the documentation.
 This are going to be a lot more lines of documentations
+I did some weird stuff in the documentation. And then some more stuff.
+
 """
 from distutils.cmd import Command
 from distutils.core import setup
@@ -14,7 +16,7 @@ import os
 
 import sys
 
-print 'Path to the Python executable', sys.executable()
+print('Path to the Python executable', sys.executable())
 
 class data(Command):
 
