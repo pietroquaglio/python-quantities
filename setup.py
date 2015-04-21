@@ -1,10 +1,10 @@
 """
 Class description.
-Hack hack hack. 
+Hack hack hack.
 
 I said two lines. At least.
 I made some beautfication in the documentation.
-
+This are going to be a lot more lines of documentations
 """
 from distutils.cmd import Command
 from distutils.core import setup
